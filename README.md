@@ -99,7 +99,7 @@ La animación es algo que siempre me ha llamado la atención, a pesar de que la 
 
 **Recursos y materiales audiovisuales:**
 
-* Musica: Aerith's Theme, Tifa's Theme
+* Música: Aerith's Theme, Tifa's Theme
 * Imágenes: María Campañón Abegón 
 * Tipografía: Sofia Handwritten
 
