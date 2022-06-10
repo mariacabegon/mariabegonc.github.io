@@ -65,7 +65,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-
+Como dije anteriormente, esta es que la gente pueda ver mi obra a través de una plataforma distinta a las redes sociales, y que. además esté planteada y organizada con una temática que me guste.
 
 
 **Publico / audiencia**
@@ -89,7 +89,7 @@ En general el programa, Hippani, da bastantes problemas que en ocasiones provoca
 
 # 4. Conclusiones 
 
-La animación en algo que siempre me ha llamado la atención, a pesar de que la informática y los números nunca hayan sido lo mío. Después de haber podido tener la oportunidad de poder conocer un poco más sobre este mundillo, me gustaría seguir provando, sin embargo, preferiría hacerlo en otro programa, ya que Hippani da bastantes problemas.
+La animación es algo que siempre me ha llamado la atención, a pesar de que la informática y los números nunca hayan sido lo mío. Después de haber podido tener la oportunidad de poder conocer un poco más sobre este mundillo, me gustaría seguir provando, sin embargo, preferiría hacerlo en otro programa, ya que Hippani da bastantes problemas.
 
 
 # 5 Referencias 
