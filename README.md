@@ -1,17 +1,17 @@
 # cmi22
 
-## (Nombre del proyecto)
-
+## (Nombre del proyecto) Mari's Portfolio
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
 
 # 1 Datos 
+Es un portfolio inspirado en la temática de omori, un juego rpg indie. 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Mari's Portfolio
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  María Campañón Abegón
 
 **Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
 
@@ -23,7 +23,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Portátil
 
 **Tamaño proyecto:** 14MB 
 
