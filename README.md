@@ -9,13 +9,13 @@ Es un portfolio inspirado en la temática de omori, un juego rpg indie.
 
 **Titulo** : Mari's Portfolio
 
-**Web:**   (url github.io)
+**Web:** mariabegonc.github.io
 
 **Autor:**  María Campañón Abegón
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto esta hecho para que aquellas personas que no conozcan mi obra, puedan apreciarla a tráves de una plataforma original que no sea ni Twitter ni Instragam
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Portfolio
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
@@ -25,28 +25,21 @@ Es un portfolio inspirado en la temática de omori, un juego rpg indie.
 
 **Probado en:**   Portátil
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 70.9MB
 
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
+**Licencia** 
 
-**Fecha** : 14/05/2020
+**Fecha** : 9/06/2022
 
 **Medios** (donde se tiene presencia relacionada):
 
 - Github:
-- Twitter
-- Instagram
-
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
 
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+En el comienzo, podemos ver una breve introducción en la que aparece quien sería la dueña del portfolio, Mari. Tras esto, se te presentan dos opciones; ir al "menú" o ir a la pagina principal, donde se encontraran distintas opciones para ver fanarts de categorías diferentes.
 
 
 
