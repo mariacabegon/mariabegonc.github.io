@@ -1,15 +1,15 @@
-# cmi22
 
-## (Nombre del proyecto) Mari's Portfolio
+
+## Mari's Portfolio
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
 
 # 1 Datos 
-Es un portfolio inspirado en la temática de omori, un juego rpg indie. 
+Es un portfolio inspirado en la temática de Omori, un juego rpg indie. 
 
 **Titulo** : Mari's Portfolio
 
-**Web:** mariabegonc.github.io
+**Web:** 
 
 **Autor:**  María Campañón Abegón
 
@@ -27,13 +27,11 @@ Es un portfolio inspirado en la temática de omori, un juego rpg indie.
 
 **Tamaño proyecto:** 70.9MB
 
-**Licencia** 
-
 **Fecha** : 9/06/2022
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
+- Github: https://github.com/mariacabegon/mariabegonc.github.io
 
 # 2. Memoria del proyecto 
 
@@ -98,13 +96,13 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+En general el programa, Hippani, da bastantes problemas que en ocasiones, haciendo que avances a la hora de ser reproducidos o guardados no vayan. 
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+La animación en algo que siempre me ha llamado la atención, a pesar de que la informática y los números nunca hayan sido lo mío. Después de haber podido tener la oportunidad de poder conocer un poco más sobre este mundillo, me gustaría segur provando, sin embargo, preferiría hacerlo en otro programa, ya que Hippani da bastantes problemas.
 
 
 
@@ -114,25 +112,21 @@ Este  proyecto es interesante porque ...
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
-
 - Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: Aerith's Theme, Tifa's Theme
+* Imágenes: María Campañón Abegón 
+* Tipografía: Sofia Handwritten
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Photoshop
+- Clip Studio Paint
 
-
-
-(imagen de la licencia, copiar y pegar aquí la correcta)
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+Junio 2022
