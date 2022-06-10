@@ -9,17 +9,16 @@ Es un portfolio inspirado en la temática de Omori, un juego rpg indie.
 
 **Titulo** : Mari's Portfolio
 
-**Web:** 
+**Web:** MARISPORTFOLIO.html
 
 **Autor:**  María Campañón Abegón
 
-**Resumen** : Este proyecto esta hecho para que aquellas personas que no conozcan mi obra, puedan apreciarla a tráves de una plataforma original que no sea ni Twitter ni Instragam
+**Resumen** : Este proyecto esta hecho para que aquellas personas que no conozcan mi obra, puedan apreciarla a tráves de una plataforma original que no sea ni Twitter ni Instragam.
 
 **Estilo/género:**  Portfolio
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
-
-(insertar imágenes a resolucion de 100px alto)
+**Logotipo** : [image](https://user-images.githubusercontent.com/106822981/173059131-92c63e67-841c-4bd0-8b2d-9a5ff49d2c38.png)
+ 
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
@@ -37,15 +36,12 @@ Es un portfolio inspirado en la temática de Omori, un juego rpg indie.
 
 ### 2.1 Storyboard: 
 
-En el comienzo, podemos ver una breve introducción en la que aparece quien sería la dueña del portfolio, Mari. Tras esto, se te presentan dos opciones; ir al "menú" o ir a la pagina principal, donde se encontraran distintas opciones para ver fanarts de categorías diferentes.
+En el comienzo, podemos ver una breve introducción en la que aparece la dueña del portfolio, Mari. Tras esto, se te presentan dos opciones; ir al "menú" o ir a la pagina principal, donde hay distintas opciones para ver fanarts de categorías diferentes. También hay un puzle, que se deberá de completar una vez se acabe de visualizar el portfolio.
 
 
 
 ### 2.2. Esquema de navegación 
 
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
 
 
 
@@ -63,51 +59,37 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material 
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
-
-
-
+- Orientado a todos los tipos de públicos.
 
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Introducción a traves de una pequeña animación.
+- Menú, donde podemos ver el llamado "fondo infinito", un video tutorial y la barra para escoger entre dos canciones y más abajo, otra para el volumen.
+- Inicio. Aquí se encontrarán 3 opciones distintas; One Piece Fanart, Genshin Fanart y OTROS. 
+- Todas sus partes están relacionadas por una serie de botones que te llevarán al  menú o al inicio.
 
 
 
 ### Etapa 3: Problemas identificados
 
-En general el programa, Hippani, da bastantes problemas que en ocasiones, haciendo que avances a la hora de ser reproducidos o guardados no vayan. 
-
+En general el programa, Hippani, da bastantes problemas que en ocasiones provocan que avances a la hora de ser reproducidos o guardados no vayan, como el puzle de mi portfolio, que dejó de funcionar. 
 
 
 # 4. Conclusiones 
 
-La animación en algo que siempre me ha llamado la atención, a pesar de que la informática y los números nunca hayan sido lo mío. Después de haber podido tener la oportunidad de poder conocer un poco más sobre este mundillo, me gustaría segur provando, sin embargo, preferiría hacerlo en otro programa, ya que Hippani da bastantes problemas.
-
-
-
-
-
+La animación en algo que siempre me ha llamado la atención, a pesar de que la informática y los números nunca hayan sido lo mío. Después de haber podido tener la oportunidad de poder conocer un poco más sobre este mundillo, me gustaría seguir provando, sin embargo, preferiría hacerlo en otro programa, ya que Hippani da bastantes problemas.
 
 
 # 5 Referencias 
