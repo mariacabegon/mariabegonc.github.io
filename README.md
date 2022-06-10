@@ -41,6 +41,7 @@ En el comienzo, podemos ver una breve introducción en la que aparece la dueña 
 
 
 ### 2.2. Esquema de navegación 
+[image](https://user-images.githubusercontent.com/106822981/173062098-d2c23da9-8f7a-4a47-89c4-29c65eb77fad.png)
 
 
 
