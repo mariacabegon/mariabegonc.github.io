@@ -78,7 +78,8 @@ Como dije anteriormente, esta es que la gente pueda ver mi obra a través de una
 
 - Introducción a través de una pequeña animación.
 - Menú, donde podemos ver el llamado "fondo infinito", un video tutorial y la barra para escoger entre dos canciones y más abajo, otra para el volumen.
-- Inicio. Aquí se encontrarán 3 opciones distintas; One Piece Fanart, Genshin Fanart y OTROS. 
+- Inicio. Aquí se encontrarán 3 opciones distintas; One Piece Fanart, Genshin Fanart y OTROS. ç
+- Puzzle.
 - Todas sus partes están relacionadas por una serie de botones que te llevarán al  menú o al inicio.
 
 
